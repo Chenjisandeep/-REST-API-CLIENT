@@ -66,4 +66,5 @@ Note 📝
 
 You must sign up at WeatherAPI.com to obtain an API key and enable real-time data access.
 
-
+### OUTPUT:
+![Image](https://github.com/user-attachments/assets/f95d61c5-a550-433a-916f-e26a655b321d)
