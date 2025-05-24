@@ -14,11 +14,6 @@
 
 *DESCRIPTION:
 
-Sure! Here's a GitHub-style project description for WeatherDataApp with emojis added for a more engaging look:
-
-
----
-
 WeatherDataApp ☀🌧🌡
 
 WeatherDataApp is a simple Java console application that fetches and displays real-time weather data for any city using the WeatherAPI. Just enter a city name and get the latest weather details!
