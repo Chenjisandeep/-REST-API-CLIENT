@@ -72,6 +72,3 @@ Note 📝
 You must sign up at WeatherAPI.com to obtain an API key and enable real-time data access.
 
 
----
-
-Let me know if you'd like this in a README.md file!
